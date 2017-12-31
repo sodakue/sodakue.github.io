@@ -6,6 +6,8 @@ html {
 body {
   margin-bottom: 80px; /* Margin bottom by footer height */
   background: #FFF6E0;
+  color: #3F3A59;
+  font-weight: bold;
 }
 
 p {
@@ -46,4 +48,16 @@ a.nav-link{
 
 .navbar-nav .nav-item+.nav-item {
   margin-left: 1rem;
+}
+
+h2{
+  font-size: 1.5rem;
+}
+
+h3{
+  font-size: 1rem;
+}
+
+h4{
+  font-size: 0.5rem;
 }
