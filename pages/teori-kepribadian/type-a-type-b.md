@@ -13,7 +13,7 @@ Salah satu teori kepribadian yang paling sederhana. Pertama kali dipopulerkan ta
 - Mudah merasakan tekanan waktu, lalu berkerja non-stop.
 - Menyenangi kompetisi, kalau perlu menciptakan kompetisi.
 - Benci kegagalan, akan berusaha keras menghindarinya.
-- Secara umum cukup sejahtera dan berpendidikan (hasil dari kegelisahannya)
+- Secara umum cukup sejahtera dan berpendidikan (akibat kegelisahannya)
 
 ## Tipe B: Level Stres Rendah
 
@@ -38,3 +38,7 @@ Setelah kebutuhan kamu terpenuhi dan kelebihan-kelebihan diri tersalurkan, belaj
 Jika kamu Tipe B, carilah lingkungan yang mengakomodir kebutuhan kamu sebagai seorang Tipe B.
 
 Setelah kebutuhan kamu terpenuhi dan kelebihan-kelebihan diri tersalurkan, belajarlah untuk hidup sebagai seorang Tipe A. Agar lebih seimbang. Sehingga tidak terkena efek negatif dari Tipe B ekstrim (hidup tidak terurus, dianggap sebagai beban masyarakat, dll).
+
+--
+
+Sumber: http://changingminds.org/explanations/preferences/typea_typeb.htm
