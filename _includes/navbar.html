@@ -1,9 +1,9 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg">
   <div class="container">
-    <a class="navbar-brand" href="#"><img src="https://image.ibb.co/bJTuPw/4.png" alt="4" border="0" /></a>
+    <a class="navbar-brand" href="/"><img src="https://image.ibb.co/bJTuPw/4.png" alt="4" border="0" /></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+      <i class="fa fa-bars menu-color" aria-hidden="true"></i>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -18,9 +18,20 @@
         <li class="nav-item">
           <a class="nav-link disabled" href="#">Disabled</a>
         </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Teori Kepribadian
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="{{ "/teori-kepribadian/tipe-a-tipe-b" | relative_url }}">Tipe A - Tipe B</a>
+            <a class="dropdown-item" href="#">2</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">3</a>
+          </div>
+        </li>
       </ul>
-      
-    
+
+
     </div>
   </div>
 </nav>

@@ -1,3 +1,4 @@
+$menu-color: #E6C88C;
 
 html {
   position: relative;
@@ -12,6 +13,10 @@ p {
   text-align: justify;
 }
 
+.fa-bars{
+  color: $menu-color;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -23,27 +28,27 @@ p {
   text-align: center;
 }
 
-
-/* Custom page CSS
--------------------------------------------------- */
-/* Not required for template or sticky footer method. */
-
 .container {
   max-width: 900px;
   padding: 0 15px;
 }
 
 .navbar{
-     margin-bottom: 50px;
-     background: #3F3A59;
-     padding: 0.5rem 1rem;
+  margin-bottom: 50px;
+  background: #3F3A59;
+  padding: 0.5rem 1rem;
 }
 
 a.nav-link{
-  color: #E6C88C;
+  color: $menu-color;
   font-size: 15px;
 }
 
-.navbar-nav .nav-item+.nav-item {
+.navbar-nav.ml-auto .nav-item {
   margin-left: 1rem;
+  margin-right: 0;
+}
+
+.dropdown-menu {
+  background-color: #FFF6E0;
 }
