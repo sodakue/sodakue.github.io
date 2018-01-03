@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: teori-kepribadian/tipe-a-tipe-b
+permalink: teori-kepribadian/type-a-type-b
 title: "Tipe A Tipe B"
 ---
 
